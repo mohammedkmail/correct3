@@ -1,0 +1,81 @@
+
+body{
+    font-family: 'Salsa', cursive;
+
+    background-color: rgba(216, 18, 167, 0.973);
+}
+
+a{
+    text-decoration-line: none;
+}
+
+.navbar ol{
+    
+    list-style: none;
+    color: white;
+    
+}
+.main{
+    background-color: rgba(26, 26, 61, 0.973);
+    text-align: center;
+    padding: 40px;
+    width: 1000px;
+    height: 800px;
+    
+    
+    
+}
+.navbar li{
+    margin-top: 20px;
+    display: inline-block;
+    width: 10%;
+}
+h2{
+    color:  rgba(216, 18, 167, 0.973);
+}
+
+p{
+    color: white;
+}
+.formm{
+    
+    width:45%;
+    display: inline-block;
+    
+}
+.contact{
+    width: 40%;
+    
+    display: inline-block;
+    
+}
+
+.colorpink{
+    color: rgba(216, 18, 167, 0.973);
+}
+.secondcolor{
+    background-color: rgba(26, 26, 61, 0.459) ;
+}
+
+.formm input{
+    background-color: rgb(150, 150, 202) ;
+    margin-top: 15px;
+    height: 30px;
+    color:white;
+    width: 90%;
+    border-radius: 7px;
+}
+
+::placeholder {
+    padding: 12px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Salsa', cursive;
+    opacity: 0.7; /* Firefox */
+  }
+.formm textarea{
+    background-color: rgba(150, 150, 202,1);
+    margin-top: 15px;
+    width: 90%;
+}
+
